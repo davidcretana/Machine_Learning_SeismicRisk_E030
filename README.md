@@ -56,7 +56,7 @@ To preserve physical consistency ($V = \frac{Z \cdot U \cdot C \cdot S}{R} \cdot
 ---
 
 ### 5. Practical Engineering Applications
-1. **Rapid Seismic Screening & Triage**: Rapidly evaluates thousands of existing or proposed buildings across coastal and Andean zones in Peru without generating full ETABS/SAP2000 models.
+1. **Rapid Seismic Screening & Triage**: Rapidly evaluates thousands of existing or proposed buildings across coastal and Andean zones in Peru without generating full models.
 2. **Early Conceptual Design Optimization**: Enables structural designers to test variations in shear wall ratios, structural systems ($R_0$), or floor plans ($I_p$) in milliseconds, receiving immediate feedback on drift compliance and base shear demands.
 3. **Urban Risk & Catastrophe Modeling**: Serves municipal authorities and insurance companies for regional seismic loss estimation and emergency response planning.
 
@@ -110,7 +110,7 @@ Se generó paramétricamente una base de datos sintética de **2,500 configuraci
 ---
 
 ### 5. Aplicaciones Prácticas en Ingeniería Estructural
-1. **Tamizado Sísmico Rápido (Triage)**: Evalúa rápidamente miles de edificios existentes o proyectados en la costa y sierra del Perú sin necesidad de crear modelos complejos en ETABS o SAP2000.
+1. **Tamizado Sísmico Rápido (Triage)**: Evalúa rápidamente miles de edificios existentes o proyectados en la costa y sierra del Perú sin necesidad de crear modelos complejos.
 2. **Optimización en Pre-Diseño Estructural**: Permite a proyectistas probar variaciones en densidad de muros, sistemas estructurales ($R_0$) o irregularidades ($I_p$) en milisegundos, obteniendo retroalimentación inmediata sobre cumplimiento de derivas.
 3. **Gestión del Riesgo Urbano**: Sirve a municipalidades y aseguradoras para la estimación de pérdidas sísmicas a nivel catastral y planes de respuesta ante emergencias.
 
